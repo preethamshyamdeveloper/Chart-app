@@ -1,0 +1,30 @@
+https://codepen.io/ricardozea/pen/bEPEPE/
+https://www.digitalocean.com/community/tutorials/js-fullscreen-api
+https://usefulangle.com/post/12/javascript-going-fullscreen-is-rare
+
+
+
+--------------Generate Soft-UI CSS code------------------------
+Neumorphism.io        
+https://neumorphism.io/#8dabad
+--------------Generate Soft-UI CSS code------------------------
+
+
+submit btn
+https://codepen.io/eyesight/pen/KGEebY?__cf_chl_jschl_tk__=b5b55bd1597f521de11c9a88fbbe14168f195e53-1595678957-0-Adnp0F2g3NIpLz2uF5l0qgZzUNWrW-CrmNQGGbEXIPPlnDpM820O8qVVZWF1htUtULQayy43zxlH_mhWjWYGB1KVZ91JuPD5Y0d9qvTpovfzN27FZsZHRo0kB2XJXB8mDv6xKQRb-EovM1fAB_QWLMdXAlTHnybKmekwgHlc28x2mq8NqSVovXg83eyFSEqOJLLk7ieXjiRjCtEAk2TDf21jwrQrCNJti22gMA6wwl1Zdpmj0yXKlJdirQxPBfA5Me1_JS9H8aT-loLCykiTrNKbth05HHr3kYKiaK-NAYTma-kCfbTzi2W5c5FskMxk6d7dNCxfqYBzunUNOhFIKT7_dlM2h57Fx1pKai4U2skx
+
+
+FANCY-BORDER-RADIUS
+https://9elements.github.io/fancy-border-radius/
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+
+CSS Transitions and Transforms for Beginners
+https://thoughtbot.com/blog/transitions-and-transforms
+
+
+https://enhancv.com/resume-examples/junior-java-developer/
+
+
+
+How to build a library for Angular apps?
+https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
